@@ -1,2 +1,2 @@
 # new
-this is a new project
+[click here](https://limbobark.github.io/new/1.html)
